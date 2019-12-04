@@ -47,5 +47,5 @@ dip switch를 이용하여 타이머모드를 활성화하고, 제한시간을 �
 시간이 흘러도 다 하지 못하면 시간패로 승부가 갈리게 됩니다.
 
 **참고**
-TIC TAC TOC의 설명 및 Pygame을 이용하여 구현한 TIC TAC TOE:
+TIC TAC TOE의 설명 및 Pygame을 이용하여 구현한 TIC TAC TOE:
 https://github.com/yh08037/Abstract_strategy_game/tree/master/02%20tic%20tac%20toe
